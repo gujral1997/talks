@@ -8,4 +8,3 @@ echo $a*$b|bc
 echo $a/$b|bc
 z=$((a / b))
 echo $z
-calc $a/$b
