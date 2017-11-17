@@ -6,5 +6,5 @@ echo $a+$b|bc
 echo $a-$b|bc
 echo $a*$b|bc
 echo $a/$b|bc
-z=$((a / b))
+z=$((a/b))
 echo $z

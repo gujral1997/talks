@@ -21,3 +21,10 @@ $$- The process number of the current shell. For shell scripts, this is the proc
 ID-under which they are executing.
 
 $! -The process number of the last background command.
+
+-ne not equal to
+-eq equal to
+-lt less than
+-gt greater than
+-ge greater than equal to
+-le less than equal to
